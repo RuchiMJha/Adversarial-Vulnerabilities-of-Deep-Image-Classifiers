@@ -68,7 +68,7 @@ Despite their impressive performance, deep neural networks are highly susceptibl
 ## GitHub Repository
 
 Complete code and visualizations are available at:  
-[https://github.com/SatvikUpadhyay/Project3](https://github.com/SatvikUpadhyay/Project3)
+[https://github.com/RuchiMJha/Adversarial-Vulnerabilities-of-Deep-Image-Classifiers/tree/main)
 
 ## License
 
